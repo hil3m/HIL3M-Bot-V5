@@ -226,8 +226,8 @@
         },
         "sticker": {
             "STICKER_DESC": "Yanıt verdiğiniz fotoğraf veya videoyu sticker yapın.",
-            "NEED_REPLY": "*Bir fotoğraf veya videoya yanıt verin!*",
-            "DOWNLOADING": "```Medya indiriliyor & sticker yapılıyor...```"
+            "NEED_REPLY": "*✂ Bir fotoğraf veya videoya yanıt verin!*",
+            "DOWNLOADING": "*✂ Sticker Yapılıyor..*"
         },
         "system_stats": {
             "ALIVE_DESC": "Bot çalışıyor mu?",
